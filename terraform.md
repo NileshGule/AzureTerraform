@@ -24,3 +24,26 @@ az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/${SUBSCRI
 
 ```
 
+## Initialize Terraform deployment
+
+```bash
+
+terraform init
+
+```
+
+## Check Terraform plan
+
+```bash
+
+terraform plan
+
+```
+
+## Apply Terraform deployment
+
+```bash
+
+terraform apply
+
+```
