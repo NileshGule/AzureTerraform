@@ -20,3 +20,6 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 environment.sh
+
+**/*.svg
+.DS_Store
